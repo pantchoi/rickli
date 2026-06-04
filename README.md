@@ -1,7 +1,7 @@
 ## Opa! Eu sou o Rick, tudo bem?
 Atualmente:
 
--📘 Atualmente no terceiro semestre em Ciência da Computação
+-📘 No terceiro semestre em Ciência da Computação
 pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
 
 -💻 Aprendendo Java, C e Python
