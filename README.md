@@ -1,9 +1,9 @@
 ## Opa! Eu sou o Rick, tudo bem?
 Atualmente:
 
--📘 Terminando Ensino Médio
--💻 Aprendendo Python
--🎮 Amante dos Games (quem não né?)
+-📘 Atualmente no terceiro semestre em Ciência da Computação
+-💻 Aprendendo Java, C e Python
+-🎮 Amante dos Games
 
 <div align="center">
   <a href="https://github.com/pantchoi">
