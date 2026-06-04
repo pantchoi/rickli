@@ -2,7 +2,7 @@
 Atualmente:
 
 -📘 Atualmente no terceiro semestre em Ciência da Computação
-pelo Instituto Federal de Ciência e Tecnologia
+pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
 
 -💻 Aprendendo Java, C e Python
 
