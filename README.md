@@ -2,6 +2,7 @@
 Atualmente:
 
 -📘 Atualmente no terceiro semestre em Ciência da Computação
+Instituto Federal de Ciência e Tecnologia
 -💻 Aprendendo Java, C e Python
 -🎮 Amante dos Games
 
